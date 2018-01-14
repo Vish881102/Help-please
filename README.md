@@ -1,0 +1,2 @@
+# Help-please
+Hi I'm currently trying to print sample labels using a Brother QL-570. I'm using a work web based site, called webtrive. I'm having issues using printing, using chrome. I have a "Styling master document from stylesheets defined in HTML imports is deprecated, and is planned to be removed in M65, around March 2018. Message and an Uncaught Error: Asseration failed: Print document request received when not in ready state: error
